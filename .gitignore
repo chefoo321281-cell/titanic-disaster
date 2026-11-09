@@ -1,0 +1,21 @@
+# data - don't upload it (grader downloads their own copy)
+src/data/
+
+# mac / windows junk
+.DS_Store
+Thumbs.db
+
+# python stuff
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# R stuff
+.Rhistory
+.RData
+.Rproj.user/
+
+# editors
+.vscode/
+.idea/
