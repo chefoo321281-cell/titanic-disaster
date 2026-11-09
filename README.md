@@ -33,7 +33,7 @@ titanic-disaster/
 ## Step 1: Clone the repo
 
 ```bash
-git clone <YOUR-REPO-URL>
+git clone <https://github.com/chefoo321281-cell/titanic-disaster>
 cd titanic-disaster
 ```
 
